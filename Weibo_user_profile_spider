@@ -1,7 +1,7 @@
 # 使用python爬取微博用户简历信息
 1.变量包括：性别，阳光信用，生日（星座），注册日期，简介，是否认证，认证信息，粉丝数，关注数，微博数，svip等级。
 2.基于GitHub用户inspurer的代码补充修改。
-3.代码仅供参考，请在法律允许范围内使用，用于学术研究请同时引用inspurer和我。
+3.代码仅供参考，请在法律允许范围内使用。
 ```python
 import requests
 import pandas as pd
